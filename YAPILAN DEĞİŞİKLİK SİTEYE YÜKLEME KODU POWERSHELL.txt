@@ -1,0 +1,15 @@
+git add .
+git commit -m "site tasarım eklendi"
+git push
+
+
+
+
+**********************
+  UYARI !!!!  BU KODU KULLANMA
+
+git add .
+git commit -m "ilk site"
+git branch -M main
+git remote add origin https://github.com/serefarslan08/greencoredc.git
+git push -u origin main
